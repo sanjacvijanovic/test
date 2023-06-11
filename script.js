@@ -1,2 +1,2 @@
 console.log("V 05"); 
-console.log("sve je updateano");
+console.log("odradili smo ispravak greške");
